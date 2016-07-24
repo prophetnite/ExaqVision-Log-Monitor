@@ -1,0 +1,2562 @@
+TM=00:00:19;LV=25;PI=80000;TX=Opened log file 20140301.txt.
+TM=00:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:01:28;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:01:29;LV=25;PI=370000;TX=/c0/u0 is not rebuilding, its current state is VERIFYING
+TM=00:01:29;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 0%
+TM=00:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:03:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:04:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:04:32;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 1%
+TM=00:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:06:35;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 2%
+TM=00:06:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:08:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:09:27;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=00:09:38;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 3%
+TM=00:09:40;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:11:41;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 4%
+TM=00:11:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:11:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:13:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:14:44;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 5%
+TM=00:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:17:01;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=00:17:01;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=00:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:17:48;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 6%
+TM=00:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:20:51;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 7%
+TM=00:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:22:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=00:22:54;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 8%
+TM=00:22:54;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 208ms
+TM=00:23:06;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:25:57;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 9%
+TM=00:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:29:01;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 10%
+TM=00:29:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:31:03;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 11%
+TM=00:31:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:31:25;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:33:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:34:07;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 12%
+TM=00:35:05;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:35:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:37:10;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 13%
+TM=00:40:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:40:14;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 14%
+TM=00:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:42:16;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 15%
+TM=00:43:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:45:06;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:45:20;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 16%
+TM=00:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:47:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:48:23;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 17%
+TM=00:50:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:51:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:51:27;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 18%
+TM=00:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:53:29;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 19%
+TM=00:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=00:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=00:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=00:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=00:56:33;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 20%
+TM=00:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=00:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=00:57:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=00:59:37;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 21%
+TM=00:59:37;LV=25;PI=370000;TX=Disk /c0/p0 overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 001 | 200 | 051 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 003 | 166 | 021 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 004 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 005 | 200 | 140 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 007 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 009 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 010 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 011 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 012 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 183 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 192 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 193 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 194 | 030 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 196 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 197 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 198 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 199 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p0 | 200 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=Disk /c0/p1 overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 001 | 200 | 051 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 003 | 171 | 021 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 004 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 005 | 200 | 140 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 007 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 009 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 010 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 011 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 012 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 183 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 192 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 193 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 194 | 031 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 196 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 197 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 198 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 199 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p1 | 200 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=Disk /c0/p2 overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 001 | 200 | 051 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 003 | 170 | 021 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 004 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 005 | 200 | 140 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 007 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 009 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 010 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 011 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 012 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 183 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 192 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 193 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 194 | 030 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 196 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 197 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 198 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 199 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p2 | 200 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=Disk /c0/p3 overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 001 | 200 | 051 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 003 | 174 | 021 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 004 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 005 | 200 | 140 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 007 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 009 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 010 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 011 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 012 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 183 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 192 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 193 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 194 | 029 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 196 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 197 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 198 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 199 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p3 | 200 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=Disk /c0/p4 overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 001 | 200 | 051 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 003 | 172 | 021 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 004 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 005 | 200 | 140 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 007 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 009 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 010 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 011 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 012 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 183 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 192 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 193 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 194 | 030 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 196 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 197 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 198 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 199 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p4 | 200 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=Disk /c0/p5 overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 001 | 200 | 051 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 003 | 168 | 021 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 004 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 005 | 200 | 140 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 007 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 009 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 010 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 011 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 012 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 183 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 192 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 193 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 194 | 030 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 196 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 197 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 198 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 199 | 200 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /c0/p5 | 200 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=Disk /dev/sdb overall health assessment : OK
+TM=00:59:37;LV=25;PI=370000;TX=| Time | Device | SMART ID | Value | Threshold |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 001 | 100 | 050 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 005 | 100 | 010 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 009 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 012 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 170 | 100 | 010 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 171 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 172 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 173 | 100 | 010 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 174 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 181 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 183 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 184 | 100 | 050 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 187 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 188 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 189 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 194 | 100 | 000 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 195 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 196 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 197 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 198 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 199 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 202 | 100 | 001 |
+TM=00:59:37;LV=25;PI=370000;TX=| Sat Mar 1 00:59:37 2014 | /dev/sdb | 206 | 100 | 001 |
+TM=01:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:01:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:02:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:02:40;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 22%
+TM=01:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:05:44;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 23%
+TM=01:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:07:26;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:08:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:08:47;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 24%
+TM=01:09:31;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:09:42;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:10:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:10:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:10:50;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 25%
+TM=01:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:13:53;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 26%
+TM=01:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:15:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:15:40;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:16:57;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 27%
+TM=01:17:02;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=01:17:02;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=01:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:18:04;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:20:01;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 28%
+TM=01:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:23:04;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 29%
+TM=01:24:25;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:24:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:25:24;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:25:57;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:26:08;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 30%
+TM=01:26:26;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:29:11;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 31%
+TM=01:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:30:19;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:31:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:32:15;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 32%
+TM=01:33:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:34:17;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 33%
+TM=01:35:10;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:35:41;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:37:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:38:22;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 34%
+TM=01:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:41:26;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 35%
+TM=01:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:44:29;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 36%
+TM=01:44:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:45:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:46:32;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 37%
+TM=01:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:47:17;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:48:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:50:36;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 38%
+TM=01:50:45;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:53:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:53:40;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 39%
+TM=01:53:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:54:19;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=01:54:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=01:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=01:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=01:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=01:56:43;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 40%
+TM=01:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=01:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=01:58:04;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=01:58:04;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=01:58:04;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=01:58:06;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=01:58:56;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=01:59:47;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 41%
+TM=02:00:06;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:02:50;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 42%
+TM=02:04:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:04:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:05:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:05:54;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 43%
+TM=02:06:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:08:58;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 44%
+TM=02:09:00;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:12:01;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 45%
+TM=02:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:13:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:13:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:14:46;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:15:05;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 46%
+TM=02:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:16:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:17:03;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=02:17:03;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=02:18:08;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 47%
+TM=02:20:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:21:12;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 48%
+TM=02:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:22:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:25:16;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 49%
+TM=02:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:27:19;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 50%
+TM=02:27:35;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=02:27:35;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=02:27:35;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=02:27:36;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=02:28:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:28:50;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:31:23;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 51%
+TM=02:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:33:54;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:34:27;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 52%
+TM=02:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:35:19;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:37:30;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 53%
+TM=02:38:00;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:40:34;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 54%
+TM=02:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:42:24;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 211ms
+TM=02:43:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:44:27;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:44:39;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 55%
+TM=02:44:57;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:46:04;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:47:42;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 56%
+TM=02:47:45;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:49:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:49:36;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:50:46;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 57%
+TM=02:51:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:52:32;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:54:51;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 58%
+TM=02:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=02:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=02:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=02:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=02:56:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=02:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=02:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=02:57:32;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:57:54;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 59%
+TM=02:59:05;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=02:59:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=03:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:01:59;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 60%
+TM=03:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:05:02;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 61%
+TM=03:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:08:06;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 62%
+TM=03:09:26;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=03:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:12:11;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 63%
+TM=03:15:14;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 64%
+TM=03:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:17:04;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=03:17:04;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=03:19:19;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 65%
+TM=03:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:22:23;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 66%
+TM=03:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:25:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=03:26:27;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 67%
+TM=03:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:29:31;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 68%
+TM=03:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:33:36;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 69%
+TM=03:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:36:39;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 70%
+TM=03:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:38:21;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=03:39:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=03:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:40:44;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 71%
+TM=03:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:42:17;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=03:43:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 208ms
+TM=03:44:49;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 72%
+TM=03:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:45:20;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=03:46:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=03:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:47:52;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 73%
+TM=03:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:50:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=03:51:38;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=03:51:57;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 74%
+TM=03:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:52:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=03:55:01;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 75%
+TM=03:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=03:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=03:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=03:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=03:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=03:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=03:59:05;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 76%
+TM=03:59:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:01:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:01:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:02:17;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:03:10;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 77%
+TM=04:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:07:15;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 78%
+TM=04:09:04;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:11:19;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 79%
+TM=04:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:15:24;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 80%
+TM=04:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:17:05;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=04:17:05;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=04:17:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=04:18:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:19:29;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 81%
+TM=04:20:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:20:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:20:57;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:23:34;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 82%
+TM=04:23:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=04:24:24;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:27:38;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 83%
+TM=04:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:30:41;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:31:43;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 84%
+TM=04:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:33:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:34:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=04:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:35:46;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:35:48;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 85%
+TM=04:35:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:37:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:38:45;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:39:52;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 86%
+TM=04:39:56;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=04:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:43:57;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 87%
+TM=04:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:47:20;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:49:03;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 88%
+TM=04:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:51:19;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:53:08;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 89%
+TM=04:53:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=04:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=04:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=04:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=04:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=04:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=04:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=04:57:13;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 90%
+TM=05:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:00:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:02:19;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 91%
+TM=05:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:06:23;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 92%
+TM=05:06:28;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:07:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:08:21;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:08:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=05:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:11:29;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 93%
+TM=05:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:12:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=05:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:15:34;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 94%
+TM=05:16:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:16:42;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:17:06;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=05:17:06;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=05:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:20:40;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 95%
+TM=05:20:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:24:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:24:56;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:25:09;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:25:45;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 96%
+TM=05:25:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=05:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:30:42;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:30:51;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 97%
+TM=05:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:32:17;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:33:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:34:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:35:57;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 98%
+TM=05:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:39:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:40:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:41:03;LV=25;PI=370000;TX=/c0/u0 is verifying with percent completion = 99%
+TM=05:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:42:25;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=05:42:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:44:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=05:45:08;LV=25;PI=370000;TX=/c0/u0 is not rebuilding, its current state is OK
+TM=05:45:08;LV=25;PI=370000;TX=/c0/u0 is not verifying, its current state is OK
+TM=05:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:46:13;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:46:45;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:48:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:48:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:49:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=05:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=05:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=05:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=05:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=05:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Handling resolution change on channel 1 (expected 1280x960 full, received 2560x1920 full).
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:23;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=05:55:26;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=05:55:26;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=05:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=05:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:26;LV=50;PI=180000;TX=Device(192.168.0.59): Handling resolution change on channel 1 (expected 2560x1920 full, received 1280x960 full).
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Handling resolution change on channel 1 (expected 1280x960 full, received 2560x1920 full).
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:29;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=06:00:32;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=06:00:33;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=06:00:34;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=06:00:35;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=06:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:06:03;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=06:06:03;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=06:06:03;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=06:06:04;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=06:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:17:07;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=06:17:07;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=06:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:44:13;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 201ms
+TM=06:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=06:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=06:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=06:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=06:55:57;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=06:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=06:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=06:57:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=07:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:03:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=07:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:05:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 210ms
+TM=07:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:12:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:17:08;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=07:17:08;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=07:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:22:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:23:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=07:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:27:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=07:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:32:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:36:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=07:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:37:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:42:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:42:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:47:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:47:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:52:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:52:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=07:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=07:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=07:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=07:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=07:57:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=07:57:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:02:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:02:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:07:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:07:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:12:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:17:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:17:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:17:09;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=08:17:09;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=08:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:22:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:27:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:27:02;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:29:54;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=08:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:32:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:37:02;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:37:10;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=08:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:50:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=08:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=08:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=08:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=08:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=08:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=08:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=08:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:17:10;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=09:17:10;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=09:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=09:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=09:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=09:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=09:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=09:56:46;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=09:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=09:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:16:36;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=10:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:17:11;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=10:17:11;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=10:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:20:26;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=10:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:43:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=10:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=10:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=10:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=10:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=10:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=10:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=10:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:04:04;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=11:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:13:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=11:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:17:12;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=11:17:12;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=11:19:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=11:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=11:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=11:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=11:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=11:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=11:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=11:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:01:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=12:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:04:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=12:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:15:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 207ms
+TM=12:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:15:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=12:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:17:13;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=12:17:13;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=12:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:22:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=12:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:31:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=12:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:40:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=12:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=12:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=12:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=12:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=12:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=12:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=12:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:17:14;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=13:17:14;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=13:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:38:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=13:38:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=13:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=13:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=13:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=13:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=13:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=13:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=13:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:00:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=14:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:03:47;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=14:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:06:38;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=14:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:16:02;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=14:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:17:15;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=14:17:15;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=14:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:28:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=14:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=14:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=14:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=14:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=14:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=14:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=14:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:00:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=15:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:11:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 208ms
+TM=15:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:14:34;LV=25;PI=e0000;TX=Purging records from the database
+TM=15:14:34;LV=25;PI=e0000;TX=Purged 0 records
+TM=15:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:15:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=15:16:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=15:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:17:16;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=15:17:16;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=15:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:21:34;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=15:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:22:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=15:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:43:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=15:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=15:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=15:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=15:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=15:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=15:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=15:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:09:28;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=16:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:17:17;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=16:17:17;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=16:18:11;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=16:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:25:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=16:26:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=16:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:28:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=16:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:35:46;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=16:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=16:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=16:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=16:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=16:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=16:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=16:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:01:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:17:18;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=17:17:18;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=17:19:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:29:47;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:32:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:36:24;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=17:36:36;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:37:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:42:26;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:42:28;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:42:30;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:42:32;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:42:33;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:42:35;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:42:35;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:47:36;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:52:35;LV=50;PI=180000;TX=Device(192.168.0.59): Receive error (RX buffer full - 2096705 bytes). Continuing.
+TM=17:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=17:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=17:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=17:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=17:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=17:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Video error: did not receive block 1 of 1.
+TM=17:57:35;LV=50;PI=180000;TX=Device(192.168.0.59): Handling resolution change on channel 1 (expected 2560x1920 full, received 1280x960 full).
+TM=17:57:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=17:59:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:06:36;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=18:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:10:36;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 208ms
+TM=18:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:13:59;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:14:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:15:00;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=18:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:16:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:17:19;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=18:17:19;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=18:17:40;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:20:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:22:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:22:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:23:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:25:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:29:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:30:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:30:24;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:31:21;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:33:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:37:28;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:38:58;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=18:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:41:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:43:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=18:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:54:59;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=18:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=18:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=18:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=18:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=18:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=18:57:13;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=18:57:56;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=19:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:00:34;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:00:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=19:01:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:04:59;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:06:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:07:46;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=19:07:46;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=19:07:46;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=19:07:47;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=19:08:02;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:09:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=19:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:12:24;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:15:00;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:15:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=19:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:16:06;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:16:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:17:20;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=19:17:20;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=19:18:26;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=19:18:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:20:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:21:13;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:24:00;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:25:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:30:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:36:34;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:39:37;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:41:25;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=19:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:44:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:46:41;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:47:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:47:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:52:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:52:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:53:47;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=19:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=19:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=19:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=19:56:35;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=19:57:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=19:57:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=19:57:23;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:01:39;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:02:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:02:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:02:50;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:06:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:07:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:07:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:07:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:09:16;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:10:06;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:10:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:12:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:12:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:15:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:17:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:17:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:17:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:17:21;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=20:17:21;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=20:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:20:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:21:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:22:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:22:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:22:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:22:08;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=20:22:08;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=20:22:08;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=20:22:09;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=20:23:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:25:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 207ms
+TM=20:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:27:00;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:27:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:27:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:27:28;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=20:27:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=20:28:04;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=20:28:04;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=20:28:04;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=20:28:05;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=20:28:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=20:29:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:29:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:32:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:32:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:34:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:34:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:35:04;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:37:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:37:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:37:05;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:38:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:39:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:41:54;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:42:03;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:42:03;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:43:13;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=20:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:45:36;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:47:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:47:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:48:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=20:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:51:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:52:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:52:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:54:51;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=20:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=20:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=20:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=20:55:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:56:50;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:57:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=20:57:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=20:57:41;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=20:59:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:02:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:02:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:03:29;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:07:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:07:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:11:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:11:54;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:12:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:12:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:12:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:12:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:13:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:14:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:14:09;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:14:32;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:16:25;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:17:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:17:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:17:22;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=21:17:22;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=21:18:11;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:20:31;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:20:53;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:21:15;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:22:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:22:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:27:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:27:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:28:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:29:05;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:29:12;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:32:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:32:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:33:47;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:33:49;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:35:31;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=21:35:31;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=21:35:31;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=21:35:32;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=21:37:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:37:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:41:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:42:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:42:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:42:25;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:42:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:43:41;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:44:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:44:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=21:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:46:09;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:47:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:47:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:49:50;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:51:17;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:52:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:52:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:52:35;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=21:52:35;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=21:52:35;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=21:52:36;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=21:52:45;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=21:52:45;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=21:52:45;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=21:52:47;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=21:54:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:54:04;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=21:54:04;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=21:54:04;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=21:54:05;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=21:54:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=21:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=21:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=21:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=21:56:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:56:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:56:39;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 203ms
+TM=21:56:44;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:57:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=21:57:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=21:58:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=21:58:11;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:00:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:01:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:01:36;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:01:36;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:01:36;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:01:37;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:01:46;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:01:46;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:01:46;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:01:49;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:01:58;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:01:58;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:01:58;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:01:59;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:02:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:02:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:02:09;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:02:09;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:02:09;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:02:10;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:07:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:07:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:09:09;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:12:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:12:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:12:06;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:12:06;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:12:06;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:12:07;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:12:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:16:52;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:17:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:17:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:17:23;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=22:17:23;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=22:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:22:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:22:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:23:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:25:30;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=22:25:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:26:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:27:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:27:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:27:08;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:29:09;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:30:56;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:31:28;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:32:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:32:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:32:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:35:43;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:37:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:37:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:37:37;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:37:37;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:37:37;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:37:38;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:39:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:39:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=22:39:39;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:40:47;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:42:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:42:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:43:00;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:43:00;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:43:00;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:43:01;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:44:32;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=22:44:52;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=22:44:52;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=22:44:52;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=22:44:53;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=22:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:45:45;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:46:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:47:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:47:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:47:18;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:47:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:50:22;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:50:50;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=22:52:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:52:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=22:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=22:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=22:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=22:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=22:56:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=22:57:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=22:57:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:00:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:00:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:00:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:00:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:00:32;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:01:39;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:02:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:02:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:02:14;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:05:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:05:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:05:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:05:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:06:16;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:06:16;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:06:16;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:06:17;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:07:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:07:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:07:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=23:10:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:10:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:10:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:10:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:12:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:12:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:15:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:15:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:15:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:15:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:17:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:17:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:17:24;LV=25;PI=50000;TX=scanning /mnt/edvr/1/
+TM=23:17:24;LV=25;PI=50000;TX=completed scan in 00:00:00
+TM=23:17:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:19:28;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:19:28;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:19:28;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:19:29;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:20:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:20:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:20:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:20:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:21:03;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:22:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:22:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:22:11;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:22:59;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:25:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:25:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:25:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:25:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:27:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:27:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:30:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:30:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:30:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:30:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:30:33;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:31:21;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 209ms
+TM=23:31:39;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:32:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:32:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:32:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:32:48;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=23:35:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:35:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:35:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:35:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:35:55;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=23:37:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:37:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:38:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 207ms
+TM=23:38:02;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=23:40:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:40:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:40:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:40:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:42:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:42:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:43:31;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:43:31;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:43:31;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:43:32;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:43:41;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:43:41;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:43:41;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:43:42;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:43:52;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:43:52;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:43:52;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:43:53;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:44:01;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:44:01;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:44:01;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:44:05;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:44:11;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:44:11;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:44:11;LV=25;PI=160000;TX=Parts Room Aisle 3 not connected
+TM=23:44:11;LV=75;PI=160000;TX=Parts Room Aisle 3 socket closed by peer
+TM=23:44:11;LV=25;PI=160000;TX=Parts Room Aisle 3 close
+TM=23:45:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:45:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:45:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:45:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:47:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:47:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:48:57;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:49:07;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:49:12;LV=25;PI=160000;TX=Parts Room Aisle 3 receiving video
+TM=23:50:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:50:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:50:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:50:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:51:04;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:52:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:52:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:53:38;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:54:01;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:55:19;LV=75;PI=160000;TX=192.168.0.51 send error 113
+TM=23:55:19;LV=75;PI=160000;TX=192.168.0.52 send error 113
+TM=23:55:19;LV=75;PI=160000;TX=192.168.0.57 send error 113
+TM=23:55:19;LV=75;PI=160000;TX=192.168.0.60 send error 113
+TM=23:57:04;LV=25;PI=60000;TX=Initiating key exchange for client 127.0.0.1:60436.
+TM=23:57:04;LV=25;PI=60000;TX=Completing key exchange for client 127.0.0.1:60436.
+TM=23:57:47;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
+TM=23:57:54;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 205ms
+TM=23:59:57;LV=25;PI=180000;TX=Device(192.168.0.59): Stream stalled for 206ms
