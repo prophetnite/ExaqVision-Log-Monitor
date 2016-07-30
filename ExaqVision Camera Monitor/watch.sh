@@ -8,12 +8,12 @@
 #   In this case, executes camera log parser.
 #   then proceeds to email based on results.
 # usage:
-#   watch <path> <cmd...>
+#   watchemail.sh <path> <cmd...>
 #
 
-declare CLIENT_NAME="CunninghamSecurity"
-declare CLIENT_EMAIL="helpdesk@cunninghamsecurity.com"
-declare CLIENT_SUPPORT="helpdesk@bekinc.net"
+declare CLIENT_NAME="ExaqVision Client Name"
+declare CLIENT_EMAIL="helpdesk@clientdomain.com"
+declare CLIENT_SUPPORT="helpdesk@mycompany.com"
 declare CLIENT_SERVER="localhost:25"
 
 declare LOGDIR="/home/user/Desktop/logs"
